@@ -1,6 +1,3 @@
-from ast import parse
-
-
 def main():
     salario = float(input("Qual é o seu salário: "))
     fazercalculo(salario)
